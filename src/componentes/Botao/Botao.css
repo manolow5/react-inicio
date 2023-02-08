@@ -1,0 +1,19 @@
+:root{
+    --cor-botao: #6278F7;
+    --cor-texto: #FFFFFF;
+    --cor-texto-btn: #95FFD4;
+}
+.botao{
+    background-color: var(--cor-botao);
+    border-radius: 0.625rem;
+    margin-top: 1.5rem;
+    font-weight: 700;
+    border: none;
+    padding: 2rem;
+    text-align: center;
+    font-size: 1.25rem;
+    color: var(--cor-texto);
+}
+.botao:hover{
+    color:var(--cor-texto-btn) ;
+}

@@ -1,0 +1,18 @@
+.time{
+    
+    text-align: center;
+    padding: 1rem;
+}
+.time h3{
+    font-size: 2rem;
+    border-bottom: 4px solid;
+    display: inline-block;
+    padding-bottom: 8px;
+}
+.colaboradores-time{
+    display: flex;
+    gap: 24px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
